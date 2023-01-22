@@ -1,0 +1,8 @@
+Date: 16:27:53, User Name: Rami, User ID: 26, User Role: Emergency Responder, Building Code: Aliaseiusmodipsa, Room Floor: 9, Access was granted ? NO
+Date: 16:28:01, User Name: cujeduuuou, User ID: 8, User Role: Student, Building Code: Voluptasipsadove, Room Floor: 8, Access was granted ? NO
+Date: 16:28:36, User Name: Rami, User ID: 26, User Role: Emergency Responder, Building Code: Idirurevoluptasip, Room Floor: 2, Access was granted ? NO
+Date: 16:28:39, User Name: cujeduuuou, User ID: 8, User Role: Student, Building Code: Voluptasipsadove, Room Floor: 8, Access was granted ? NO
+Date: 16:28:51, User Name: Rami, User ID: 26, User Role: Emergency Responder, Building Code: SKROP, Room Floor: 9, Access was granted ? NO
+Date: 16:29:12, User Name: wixuledy, User ID: 13, User Role: Student, Building Code: Idirurevoluptasip, Room Floor: 2, Access was granted ? YES
+Date: 16:29:15, User Name: cujeduuuou, User ID: 8, User Role: Student, Building Code: Voluptasipsadove, Room Floor: 8, Access was granted ? NO
+Date: 16:29:16, User Name: cujeduuuou, User ID: 8, User Role: Student, Building Code: Voluptasipsadove, Room Floor: 8, Access was granted ? NO

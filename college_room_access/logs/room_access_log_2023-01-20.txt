@@ -1,0 +1,34 @@
+Date: 02:16:50, User Name: Rami, User ID: 26, User Role: Emergency Responder, Building Code: RTY, Room Floor: 3, Access was granted ? NO
+Date: 02:17:09, User Name: kjkjkik, User ID: 29, User Role: Visitor / Guest, Building Code: RTY, Room Floor: 3, Access was granted ? NO
+Date: 02:18:12, User Name: qisatyzu, User ID: 10, User Role: Security, Building Code: ghhugh, Room Floor: 10, Access was granted ? YES
+Date: 02:36:18, User Name: Tom, User ID: 16, User Role: Staff Member, Building Code: SE, Room Floor: 5, Access was granted ? NO
+Date: 02:36:54, User Name: Alex, User ID: 24, User Role: Student, Building Code: SE, Room Floor: 8, Access was granted ? NO
+Date: 02:37:01, User Name: Tom, User ID: 16, User Role: Staff Member, Building Code: SE, Room Floor: 8, Access was granted ? NO
+Date: 02:37:13, User Name: Tom, User ID: 16, User Role: Staff Member, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 02:37:43, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? YES
+Date: 02:38:21, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:46, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:47, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:47, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:48, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:48, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:48, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:49, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:49, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:49, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:49, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:49, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:50, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:50, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:50, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:50, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:50, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:51, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:51, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:51, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:51, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:51, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:51, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:52, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:52, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
+Date: 01:49:52, User Name: Rami, User ID: 26, User Role: Student, Building Code: TE, Room Floor: 9, Access was granted ? NO
